@@ -50,3 +50,7 @@ int main() {
 OUTPUT :-
 
 <img width="1545" height="753" alt="image" src="https://github.com/user-attachments/assets/2a5355b9-9be3-490f-9381-ca0538cea5b9" />
+
+RESULT :-
+
+ The simple substitution technique named Caesar cipher using C language is executed successfully
